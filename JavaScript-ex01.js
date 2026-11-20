@@ -1,10 +1,10 @@
-const firstName = "Zubayr";
+const firstName = "Zubayr"
 
-const lastName = "Daniels";
+const lastName = "Daniels"
 
-let age = 23;
+let age = 23
 
-const fullName = `${firstName} ${lastName}`;
+const fullName = `${firstName} ${lastName}`
 
 console.log(`Hello ${fullName}. You are ${age} years old.`);
 
